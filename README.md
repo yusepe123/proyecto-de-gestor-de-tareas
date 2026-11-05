@@ -1,2 +1,22 @@
-# proyecto-de-gestor-de-tareas
-Kelibet Jimenez V.33790008, Daniel Montero v.31913110, Juan melani V. 31.244.117, Jean Mendez V.31.446.586
+# Sistema Gestor de Tareas por Consola
+
+Proyecto 1 de la asignatura **Lenguaje de Programación III** (Período 2026-II) - UNEFA.
+
+## Tema elegido
+**Tema 6: Gestor de tareas** (Gestión de título, prioridad, estado, fecha límite y reporte de tareas pendientes clasificadas por prioridad).
+
+## Integrantes del grupo
+- Juan Melani
+- Daniel Montero
+- Jean Mendez
+- Keylibet Jimenez
+
+## Opción de persistencia
+Se eligió la **Opción A: Archivos JSON** (`datos/tareas.json`), utilizando el módulo `json` de la biblioteca estándar de Python para guardar y cargar la lista de diccionarios con las tareas.
+
+## Cómo ejecutar el programa
+1. Clonar este repositorio o colocar los archivos `.py` en una misma carpeta.
+2. Tener instalado Python 3.
+3. Abrir la terminal en la carpeta del proyecto y ejecutar:
+   ```bash
+   python main.py
