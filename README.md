@@ -6,10 +6,11 @@ Proyecto 1 de la asignatura **Lenguaje de Programación III** (Período 2026-II)
 **Tema 6: Gestor de tareas** (Gestión de título, prioridad, estado, fecha límite y reporte de tareas pendientes clasificadas por prioridad).
 
 ## Integrantes del grupo
-- Juan Melani
-- Daniel Montero
-- Jean Mendez
-- Keylibet Jimenez
+- Juan Melani v31.244.117
+- Daniel Montero v31.913.110
+- Jean Mendez v31.446.586
+- Keylibet Jimenez v33.790.008
+
 
 ## Opción de persistencia
 Se eligió la **Opción A: Archivos JSON** (`datos/tareas.json`), utilizando el módulo `json` de la biblioteca estándar de Python para guardar y cargar la lista de diccionarios con las tareas.
